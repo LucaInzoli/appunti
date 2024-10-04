@@ -1,8 +1,8 @@
 # Cassiopeia 
-Cassiopea è la leggendaria regina di Etiopia
-Una delle 48 elencate da Tolomeo
-Protagonista delle notti stellate autunnali
-Attraversata dalla Via Lattea
+Cassiopea è la leggendaria regina di Etiopia  
+Una delle 48 elencate da Tolomeo  
+Protagonista delle notti stellate autunnali  
+Attraversata dalla Via Lattea  
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
