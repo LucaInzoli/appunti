@@ -1,4 +1,4 @@
-# Cassiopeia  
+# Cassiopea  
 
 [Stars](https://lucainzoli.github.io/appunti/Stars/index.html)  
 
